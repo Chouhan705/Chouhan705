@@ -6,11 +6,11 @@ Welcome to my GitHub! I'm passionate about building AI-powered solutions that so
 
 ## 🚀 Projects
 
-| Name | Description | Technologies | DevContainer? |
+| Name | Description | Technologies | Origin |
 |------|-------------|--------------|---------------|
-| Doctor’s Walls | AI-powered voice-driven assistant that automates medical records and prescriptions in real time using Whisper AI + Gemini. | Python, Whisper AI, Google Gemini, React, Tailwind | ✅ |
-| Chetak | Emergency response navigator connecting patients with nearby hospitals using real-time location, AI diagnosis, and routing. | Python, FastAPI, Whisper AI, React, Leaflet.js, MongoDB | ✅ |
-| HackPad *(in development)* | Collaborative tool for devs to brainstorm and document ideas during a hackathon. | TBD | ❌ |
+| Doctor’s Walls | AI-powered voice-driven assistant that automates medical records and prescriptions in real time using Whisper AI + Gemini. | Python, Whisper AI, Google Gemini, React, Tailwind | Hackathon |
+| Chetak | Emergency response navigator connecting patients with nearby hospitals using real-time location, AI diagnosis, and routing. | Python, FastAPI, Whisper AI, React, Leaflet.js, MongoDB | College Project |
+| HackPad *(in development)* | Collaborative tool for devs to brainstorm and document ideas during a hackathon. | TBD | Self Need |
 
 <details>
   <summary>📌 More About Me</summary>

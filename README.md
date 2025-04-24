@@ -26,5 +26,5 @@ Welcome to my GitHub! I'm passionate about building AI-powered solutions that so
 ---
 
 📫 **Let’s Connect!**  
-Feel free to reach out for collaboration, mentorship( bothways ;) ), or geeking out over AI.
+Feel free to reach out for collaboration, mentorship[bothways ;)], or geeking out over AI.
 

@@ -1,10 +1,10 @@
-# Hi, I'm Aditya Chouhan – a Student Software Engineer 👨‍💻
+# Hi, I'm Aditya Chouhan – a Student Software Engineer 
 
 Welcome to my GitHub! I'm passionate about building AI-powered solutions that solve real-world problems—from clinics to emergency scenes.
 
-> 🧠 _"Learn deeply, then teach widely."_  
+>  _"Learn deeply, then teach widely."_  
 
-## 🚀 Projects
+##  Projects
 
 | Name | Description | Technologies | Origin |
 |------|-------------|--------------|---------------|
@@ -13,18 +13,18 @@ Welcome to my GitHub! I'm passionate about building AI-powered solutions that so
 | HackPad *(in development)* | Collaborative tool for devs to brainstorm and document ideas during a hackathon. | TBD | Self Need |
 
 <details>
-  <summary>📌 More About Me</summary>
+  <summary> More About Me</summary>
 
-- 🎓 I'm a student software engineer with a vision to blend AI + Assistance
-- 🔬 Currently building tools in medtech and emergency systems
-- 🗣 Whisper + Gemini enthusiast
-- 💡 Dreaming of creating tools that teach what I learn
-- ✨ Fun Fact: _I wanna learn it all, and then teach it all!_
+-  I'm a student software engineer with a vision to blend AI + Assistance
+-  Currently building tools in medtech and emergency systems
+-  Whisper + Gemini enthusiast
+-  Dreaming of creating tools that teach what I learn
+-  Fun Fact: _I wanna learn it all, and then teach it all!_
 
 </details>
 
 ---
 
-📫 **Let’s Connect!**  
+ **Let’s Connect!**  
 Feel free to reach out for collaboration, mentorship[bothways ;)], or geeking out over AI.
 
